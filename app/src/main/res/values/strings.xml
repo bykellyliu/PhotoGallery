@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">" PhotoGallery"</string>
+    <string name="taipei_tags">Taiwan</string>
+    <string name="taipei_categories">Travel 2015</string>
+    <string name="hk_tags">Hong Kong</string>
+    <string name="hk_categories">Business Trip</string>
+    <string name="tokyo_tags">Tokyo</string>
+    <string name="tokyo_categories">Travel 2017</string>
+    <string name="seoul_tags">Seoul</string>
+    <string name="seoul_categories">Travel 2016</string>
+</resources>
